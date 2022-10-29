@@ -4,7 +4,6 @@ A Markdown Editor App made in Rust using Tauri and React
 
 ## Getting Started
 
-Assuming you've a working version of rust installed all you would need to do is run: 
 1. Clone repo: git clone https://github.com/danmugh/rust-tauri-markdown-editor.git
 2. `yarn` to install dependencies
 3. `yarn tauri dev` to launch Vite dev server and start Tauri app in development
