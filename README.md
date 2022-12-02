@@ -1,6 +1,30 @@
+<a name="readme-top"></a>
+
+<div align="center">
+    <h2>Tauri Markdown Editor</h2>
+    <img src="https://github.com/danmugh/rust-blog/actions/workflows/rust.yml/badge.svg" alt="Workflow status badge">
+</div>
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+    <img src="https://avatars.githubusercontent.com/u/54536011?s=200&v=4" alt="Logo" width="80" height="80">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/nabijaczleweli/termimage/master/assets/rust-logo-truecolor.png" alt="Logo" width="80" height="80">
+</div>
+
 ## About The Project
 A Markdown Editor App made in Rust using Tauri and React
+
+The Tauri/Rust "backend" handles heavy lifting of operations like parsing markdown and sends data to "frontend" React app.
+
 > Feel free to open a PR or file an issue if you should notice any bugs/errors or just have spotted some improvements!
+
+## Table of contents
+* [Setup](#getting-started)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
 
 ## Getting Started
 
@@ -21,6 +45,14 @@ If you have a suggestion that would make this better, please fork the repo and c
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+
+## License
+
+Licensed under :
+
+* MIT license
+  ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+
 
 ## Contact
 
